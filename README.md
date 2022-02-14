@@ -1,9 +1,9 @@
-# otus_python_dev_pro
+# "Python Developer. Professional" course by OTUS
 OTUS ["Python Developer. Professional"](https://otus.ru/lessons/python-professional/) course assignment solutions
 
 1. [Log Analyzer](https://github.com/asergeenko/otus_pypro_log_analyzer)
-1.1. [Poker](https://github.com/asergeenko/otus_pypro_poker)
-1.2. [Decorators](https://github.com/asergeenko/otus_pypro_deco)
+  - [Poker](https://github.com/asergeenko/otus_pypro_poker)
+  - [Decorators](https://github.com/asergeenko/otus_pypro_deco)
 2. CPython
 3. [Scoring API](https://github.com/asergeenko/otus_pypro_scoring_api)
 4. [API Testing](https://github.com/asergeenko/otus_pypro_api_testing)
